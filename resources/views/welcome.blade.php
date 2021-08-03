@@ -67,6 +67,12 @@
                                     agregaremos mas texto.
                                     cambio 2</p>
                                 </div>
+                                <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
+                                    <p>este es el segundo cambio de la rama 2 sin afectar a la rama master
+                                    aca estamos agregando un nuevo div y haremos que se vea algo diferente.
+                                    agregaremos mas texto.
+                                    cambio 2</p>
+                                </div>
                             </div>
                         </div>
 
