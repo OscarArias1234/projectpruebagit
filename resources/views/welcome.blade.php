@@ -16,7 +16,7 @@
 
         <style>
             body {
-                font-family: 'Nunito', sans-serif;
+                font-family: 'Nunito', arial;
             }
         </style>
     </head>
@@ -124,6 +124,11 @@
 
                     <div class="ml-4 text-center text-sm text-gray-500 sm:text-right sm:ml-0">
                         Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
+                    </div>
+                    <div class="ml-4 text-center text-sm text-gray-500 sm:text-right sm:ml-0">
+                        <p>ESTE ES EL CAMBIO REALIZADO EN EL MASTER DESPUES DE REALIZAR DOS CAMBIOS EN LA RAMA 2
+                            ACA HAY UN NUEVO DIV AL FINAL DEL CODIGO Y TODO ESTE TEXTO ESTA DENTRO DE UN PARRAFO
+                        </p>
                     </div>
                 </div>
             </div>
